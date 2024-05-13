@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gstest\\Clanguage\\test_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B8F9D5-9E9E-4133-9595-C2138471C29C}|test_Project\\test_Project.vcxproj|D:\\Gstest\\Clanguage\\test_Project\\test_Project\\test_01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3B8F9D5-9E9E-4133-9595-C2138471C29C}|test_Project\\test_Project.vcxproj|solutionrelative:test_Project\\test_01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B8F9D5-9E9E-4133-9595-C2138471C29C}|test_Project\\test_Project.vcxproj|D:\\Gstest\\Clanguage\\test_Project\\test_Project\\Lean_Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3B8F9D5-9E9E-4133-9595-C2138471C29C}|test_Project\\test_Project.vcxproj|solutionrelative:test_Project\\Lean_Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B8F9D5-9E9E-4133-9595-C2138471C29C}|test_Project\\test_Project.vcxproj|D:\\Gstest\\Clanguage\\test_Project\\test_Project\\shuju_Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3B8F9D5-9E9E-4133-9595-C2138471C29C}|test_Project\\test_Project.vcxproj|solutionrelative:test_Project\\shuju_Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_01.c",
+              "DocumentMoniker": "D:\\Gstest\\Clanguage\\test_Project\\test_Project\\test_01.c",
+              "RelativeDocumentMoniker": "test_Project\\test_01.c",
+              "ToolTip": "D:\\Gstest\\Clanguage\\test_Project\\test_Project\\test_01.c",
+              "RelativeToolTip": "test_Project\\test_01.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T11:20:00.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shuju_Test.c",
+              "DocumentMoniker": "D:\\Gstest\\Clanguage\\test_Project\\test_Project\\shuju_Test.c",
+              "RelativeDocumentMoniker": "test_Project\\shuju_Test.c",
+              "ToolTip": "D:\\Gstest\\Clanguage\\test_Project\\test_Project\\shuju_Test.c",
+              "RelativeToolTip": "test_Project\\shuju_Test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-12T15:30:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lean_Test.c",
+              "DocumentMoniker": "D:\\Gstest\\Clanguage\\test_Project\\test_Project\\Lean_Test.c",
+              "RelativeDocumentMoniker": "test_Project\\Lean_Test.c",
+              "ToolTip": "D:\\Gstest\\Clanguage\\test_Project\\test_Project\\Lean_Test.c",
+              "RelativeToolTip": "test_Project\\Lean_Test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-24T15:16:34.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
